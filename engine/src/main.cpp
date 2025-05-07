@@ -6,13 +6,14 @@
 #include "Indexer.hpp"
 #include "QueryRunner.hpp"
 #include "crow.h"
-
-struct Result
-{
-    std::string title;
-    std::string link;
-    float relevancy;
-};
+#include "QueryResult.hpp"
+#include "Evaluator.hpp"
+// struct Result
+// {
+//     std::string title;
+//     std::string link;
+//     float relevancy;
+// };
 
 
 // Should probably move this elsewhere, but since main is not that complex, it is fine here
@@ -43,11 +44,6 @@ std::vector<Result> execute_query(std::string query, Indexer indexer, std::pair<
             result.push_back(r);
     }
 
-
-    //std::string test = search_result[1].first;
-
-    //std::cout << res_map[test].title;
-
     return result;
 }
 
@@ -59,16 +55,19 @@ int main() {
     Indexer indexer(file_paths);
     auto documents = indexer.create_index();
 
-    for ( int i = 0; i < documents.first.size(); i++) {
-         std::cout << documents.first[i] << " - vec: [";
-        for (int j = 0; j < documents.second[i].size(); j++) {
-            std::cout << documents.second[i][j] << ",";
-        }
-        std::cout << "] \n";
-    }
+    // for ( int i = 0; i < documents.first.size(); i++) {
+    //      std::cout << documents.first[i] << " - vec: [";
+    //     for (int j = 0; j < documents.second[i].size(); j++) {
+    //         std::cout << documents.second[i][j] << ",";
+    //     }
+    //     std::cout << "] \n";
+    // }
 
-    // std::string query;
-    // std::cout << "ENTER QUERY: ";
+    std::string test_query = "phone";
+    std::vector<Result> results = execute_query(test_query, indexer, documents);
+    Evaluator evaluator;
+    evaluator.calculate_f1(results, test_query);
+    // Evaluator::calculate_f1(test_query, results)
 
     crow::SimpleApp app;
     CROW_ROUTE(app, "/search")

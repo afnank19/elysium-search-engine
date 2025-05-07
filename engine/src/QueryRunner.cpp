@@ -16,6 +16,12 @@ std::vector<std::pair<std::string, float>> QueryRunner::run_query(std::vector<fl
 
         float res = cosine_similarity(q, d);
 
+        // We can remove this to return all the documents, but this hurts f1 score
+        // ideally, no need to return irrelevant documents, that makes sense
+        if (res == 0) {
+            continue;
+        }
+
         std::pair<std::string, float> curr_doc_relevancy = std::make_pair(documents.first[i], res);
         result.push_back(curr_doc_relevancy);
     }
