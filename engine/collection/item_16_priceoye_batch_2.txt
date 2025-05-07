@@ -1,0 +1,30 @@
+<title_swe12>Tecno Camon 30S
+<link_swe123>https://priceoye.pk/mobiles/tecno/tecno-camon-30s
+Release Date: 03 Oct 2024
+SIM Support: Dual Sim
+Phone Dimensions: 164.49x74.55x7.62mm
+Phone Weight: N/A
+Operating System: Android 14
+Screen Size: 6.78
+Screen Resolution: 1080*2436
+Screen Type: N/A
+Screen Protection: N/A
+Internal Memory: 256 GB
+RAM: 8 GB
+Card Slot: N/A
+Processor: Helio G100 Octa-Core
+GPU: N/A
+Type: 5000 mAh
+Front Camera: 13 MP
+Front Flash Light: Yes
+Front Video Recording: Yes
+Back Flash Light: Yes
+Back Camera: 50 MP + 2 MP
+Back Video Recording: Yes
+Bluetooth: Yes
+3G: Yes
+4G/LTE: Yes
+5G: N/A
+Radio: Yes
+WiFi: Yes
+NFC: Yes

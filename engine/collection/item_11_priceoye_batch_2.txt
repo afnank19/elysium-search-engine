@@ -1,0 +1,30 @@
+<title_swe12>Tecno Phantom V Fold
+<link_swe123>https://priceoye.pk/mobiles/tecno/tecno-phantom-v-fold
+Release Date: 28 Feb 2023
+SIM Support: Dual SIM (Nano-SIM, dual stand-by)
+Phone Dimensions: Unfolded: 159.4 x 140.4 x 6.9 mm Folded: 159.4 x 72 x 14.2-14.5 mm
+Phone Weight: 299 g
+Operating System: Android 13, HiOS 13 Fold
+Screen Size: Main Screen: 7.85 Inches, Sub Screen: 6.43 Inches
+Screen Resolution: Main Screen: 2000 x 2296 Pixels, Sub Screen: 1080 x 2550 Pixels
+Screen Type: Foldable LTPO AMOLED, 1B colors, 120Hz, 1100 nits (peak)
+Screen Protection: Main Screen: Schott UTG, Sub Screen: Corning Gorilla Glass Victus
+Internal Memory: 512 GB
+RAM: 12 GB
+Card Slot: No
+Processor: Mediatek Dimensity 9000+
+GPU: Mali-G710 MC10
+Type: 5000 mAh
+Front Camera: 16 MP
+Front Flash Light: N/A
+Front Video Recording: 1080p@60fps
+Back Flash Light: Yes
+Back Camera: 50 MP + 50 MP + 13 MP
+Back Video Recording: 4K@30fps, 1080p@30/60fps
+Bluetooth: Yes
+3G: Yes
+4G/LTE: Yes
+5G: Yes
+Radio: FM radio, recording
+WiFi: Yes
+NFC: Yes

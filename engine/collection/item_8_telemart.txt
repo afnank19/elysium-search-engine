@@ -1,0 +1,37 @@
+<title_swe12>Samsung Galaxy A06 (6GB,128GB) Dual Sim With Official Warranty
+<link_swe123>https://telemart.pk/samsung-galaxy-a06-6gb128gb-dual-sim-with-official-warranty
+General Features
+Release Date	18 Oct 2024
+SIM Support	Dual Sim
+Phone Dimensions	167.3 x 77.3 x 8.0 mm
+Phone Weight	189g
+Operating System	Android 14
+Display
+Screen Size	6.7 Inches
+Screen Resolution	720 x 1600 (HD+)
+Screen Type	LCD
+Screen Protection	N/A
+Memory
+Internal Memory	128 GB
+RAM	6 GB
+Card Slot	Micro SD up to 1TB
+Performance
+Processor	Mediatek Helio G85
+GPU	Mali-G52 MC2
+Battery
+Type	5000mAh
+Camera
+Front Camera	8 MP
+Front Flash Light	No
+Front Video Recording	Yes
+Back Flash Light	Yes
+Back Camera	50 MP + 2 MP
+Back Video Recording	FHD (1920 x 1080) @60fps
+Connectivity
+Bluetooth	Yes
+3G	Yes
+4G/LTE	Yes
+5G	No
+Radio	Yes
+WiFi	Yes
+NFC	Yes

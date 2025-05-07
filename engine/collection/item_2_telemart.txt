@@ -1,0 +1,37 @@
+<title_swe12>Samsung Galaxy A56 5G (12GB,256GB) Dual Sim with Official Warranty
+<link_swe123>https://telemart.pk/samsung-galaxy-a56-5g-12gb256gb-dual-sim-with-official-warranty
+General Features
+Release Date	11 Apr 2025
+SIM Support	Dual Sim
+Phone Dimensions	162.2 x 77.5 x 7.4
+Phone Weight	198g
+Operating System	Android
+Display
+Screen Size	6.7 Inches
+Screen Resolution	1080 x 2340 pixels
+Screen Type	Super AMOLED with 120 Hz Refresh Rate
+Screen Protection	N/A
+Memory
+Internal Memory	256GB
+RAM	8GB / 12GB Ram
+Card Slot	No
+Performance
+Processor	Exynos 1580
+GPU	N/A
+Battery
+Type	5000mAh
+Camera
+Front Camera	12 MP
+Front Flash Light	No
+Front Video Recording	Yes
+Back Flash Light	Yes
+Back Camera	50MP + 12MP + 5MP
+Back Video Recording	UHD 4K (3840 x 2160) @30fps
+Connectivity
+Bluetooth	Yes
+3G	Yes
+4G/LTE	Yes
+5G	Yes
+Radio	No
+WiFi	Yes
+NFC	N/A

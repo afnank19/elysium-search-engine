@@ -1,0 +1,30 @@
+<title_swe12>Tecno Pova 6 Neo
+<link_swe123>https://priceoye.pk/mobiles/tecno/tecno-pova-6-neo
+Release Date: 11 Dec 2024
+SIM Support: Dual Sim
+Phone Dimensions: 168.6 x 76.6 x 9.2 mm
+Phone Weight: N/A
+Operating System: Android 14
+Screen Size: 6.78 Inches
+Screen Resolution: 1080 x 2460 Pixels with
+Screen Type: LCD with 120Hz Refresh Rate
+Screen Protection: N/A
+Internal Memory: 128/256 GB
+RAM: 16gb (8GB+ 8GB Extended RAM)
+Card Slot: N/A
+Processor: Mediatek Helio G99 Ultimate
+GPU: Mali-G57 MC2
+Type: 7000 mAh
+Front Camera: 8 MP
+Front Flash Light: N/A
+Front Video Recording: Yes
+Back Flash Light: Yes
+Back Camera: 50 MP + 2 MP
+Back Video Recording: Yes
+Bluetooth: Yes
+3G: Yes
+4G/LTE: Yes
+5G: No
+Radio: N/A
+WiFi: Yes
+NFC: No

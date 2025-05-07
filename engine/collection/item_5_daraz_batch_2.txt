@@ -1,0 +1,18 @@
+<title_swe12>Dawlance Atmos Cool Inverter 15/ 1 Ton / Split AC / 12000 BTU / 12 Years Compressor Warranty
+<link_swe123>https://www.daraz.pk/products/dawlance-atmos-cool-inverter-15-1-ton-split-ac-12000-btu-12-years-compressor-warranty-i527728447.html
+Indoor Unit Cooling Operating Range 17 ~ 32
+Condenser Fin: Gold Fin
+EER: 3.2
+Cooler liquid: R32
+Energy in Heating (W): 3664
+Noise Level DB: 42
+Outdoor DB: 55
+Air Flow rate m3/hr: 600
+Removable/ Washable Filter: Yes
+Turbo Mode: Yes
+Memory Function: Yes
+Anti Rust Outdoor Casing: Yes
+Cooling Capacity (Btu / h): 12000 BTU/h
+Voltage Range: 220V-240V
+Minimum Energy Mode (Inverter): Yes
+

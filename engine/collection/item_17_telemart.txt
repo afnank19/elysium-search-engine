@@ -1,0 +1,38 @@
+<title_swe12>Samsung Galaxy A54 5G (8GB,256GB) Dual Sim with Official Warranty
+<link_swe123>https://telemart.pk/samsung-galaxy-a54-5g-8gb256gb-dual-sim-with-official-warranty
+LAUNCH	Announced	2023, March 15
+Status	Available. Released 2023, March 24
+BODY	Dimensions	158.2 x 76.7 x 8.2 mm (6.23 x 3.02 x 0.32 in)
+Weight	202 g (7.13 oz)
+Build	Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), plastic frame
+SIM	Single SIM (Nano-SIM, eSIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)
+ 	IP67 dust/water resistant (up to 1m for 30 min)
+DISPLAY	Type	Super AMOLED, 120Hz, HDR10+, 1000 nits (HBM)
+Size	6.4 inches, 100.5 cm2 (~82.9% screen-to-body ratio)
+Resolution	1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)
+Protection	Corning Gorilla Glass 5
+PLATFORM	OS	Android 13, One UI 5.1
+Chipset	Exynos 1380 (5 nm)
+CPU	Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
+GPU	Mali-G68 MP5
+MEMORY	Card slot	microSDXC (uses shared SIM slot)
+Internal	256GB 8GB RAM
+MAIN CAMERA	Triple	50 MP, f/1.8, (wide), 1/1.56", 1.0Âµm, PDAF, OIS
+12 MP, f/2.2, 123Ëš (ultrawide), 1.12Âµm
+5 MP, f/2.4, (macro)
+Features	LED flash, panorama, HDR
+Video	4K@30fps, 1080p@30/60fps, 720p@480fps
+SELFIE CAMERA	Single	32 MP, f/2.2, 26mm (wide), 1/2.8", 0.8Âµm
+Video	4K@30fps, 1080p@30/60fps
+SOUND	Loudspeaker	Yes, with stereo speakers
+3.5mm jack	No
+COMMS	WLAN	Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct
+Bluetooth	5.3, A2DP, LE
+Positioning	GPS, GLONASS, GALILEO, BDS
+NFC	Yes (market/region dependent)
+Radio	No
+USB	USB Type-C 2.0, OTG
+FEATURES	Sensors	Fingerprint (under display, optical), accelerometer, gyro, compass, barometer (USA only)
+ 	Virtual proximity sensing
+BATTERY	Type	Li-Po 5000 mAh, non-removable
+Charging	25W wired

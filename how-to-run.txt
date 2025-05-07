@@ -1,0 +1,11 @@
+The documents have already been scraped and put in the collection folder of the engine
+
+You must have NodeJS and C++ setup.
+
+For the engine, if you have a latest C++ compiler, run 'make build && make run-build'
+This will launch the engine, and serve at localhost:5173
+
+For the frontend, you can run 'npm install && npm run dev'
+The website will be available at localhost:3000
+
+You can query the engine using the frontend provided

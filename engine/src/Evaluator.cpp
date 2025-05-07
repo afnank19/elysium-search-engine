@@ -1,5 +1,6 @@
 #include "Evaluator.hpp"
 
+// The ground truths have not been set properly, so f1 score wont work
 Evaluator::Evaluator()
 {
     printf("welcome to evaluator\n");
@@ -42,11 +43,11 @@ void Evaluator::calculate_f1(std::vector<Result> result, std::string test_query)
     int total_retrieved_docs = result.size();
 
     for (auto res : result) {
-        std::cout << res.title + "\n";
+        // std::cout << res.title + "\n";
         for (auto t : truth) {
             t = t + "\r";
             if (res.title == t) {
-                std::cout << t + "\n";
+                // std::cout << t + "\n";
                 ++rel_count;
             }
         }
@@ -56,10 +57,10 @@ void Evaluator::calculate_f1(std::vector<Result> result, std::string test_query)
     precision = rel_count / total_retrieved_docs;
     recall = rel_count / truth.size();
 
-    std::cout << rel_count << "\n";
-    std::cout << recall << "\n";
-    std::cout << precision << "\n";
-    std::cout << total_retrieved_docs << "\n";
+    // std::cout << rel_count << "\n";
+    // std::cout << recall << "\n";
+    // std::cout << precision << "\n";
+    // std::cout << total_retrieved_docs << "\n";
     // formula
     if (precision+recall == 0) {
         std::cout << "p+r=0\n";
@@ -67,5 +68,5 @@ void Evaluator::calculate_f1(std::vector<Result> result, std::string test_query)
     }
 
     double f1_score = (2 * (precision * recall)) / (precision + recall);
-    std::cout << "F1 SCORE : " << f1_score << "\n";
+    // std::cout << "F1 SCORE : " << f1_score << "\n";
 }

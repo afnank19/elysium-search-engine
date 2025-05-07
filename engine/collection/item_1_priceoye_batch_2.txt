@@ -1,0 +1,29 @@
+<title_swe12>Tecno MegaPad 10
+<link_swe123>https://priceoye.pk/tablets/tecno/tecno-megapad-10
+Release Date: 2024-11-01
+SIM Support: Yes
+Tablet Dimensions: 240.7 x 159.5 x 7.4 mm
+Tablet Weight: 470g
+Operating System: Android 14
+Screen Size: 10.1 Inches
+Screen Resolution: 800 x 1280 pixels
+Screen Type: IPS LCD, 450 nits
+Screen Protection: N/A
+Internal Memory: 128 GB / 256 GB
+RAM: 4GB
+Card Slot: microSDXC (dedicated slot)
+Processor: Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)
+GPU: Mali-G52 MC2
+Type: Li-Po
+Front Camera: 5.0 MP
+Front Flash Light: N/A
+Front Video Recording: YES
+Back Flash Light: LED
+Back Camera: 13 MP
+Back Video Recording: 1080p@30fps
+Bluetooth: 5.1, A2DP, LE
+3G: HSDPA 900 / 2100
+4G/LTE: LTE
+Radio: N/A
+WiFi: YES
+NFC: N/A

@@ -1,0 +1,30 @@
+<title_swe12>Tecno SPARK 30 Pro
+<link_swe123>https://priceoye.pk/mobiles/tecno/tecno-spark-30-pro
+Release Date: 08 Nov 2024
+SIM Support: Dual SIM (Nano-SIM, dual stand-by)
+Phone Dimensions: 166.6 x 77 x 7.4 mm
+Phone Weight: N/A
+Operating System: Android 14, HIOS 14
+Screen Size: 6.78 inches
+Screen Resolution: 1080 x 2436 pixels (~393 ppi density)
+Screen Type: AMOLED with 120Hz Refresh Rate
+Screen Protection: N/A
+Internal Memory: 128GB / 256GB
+RAM: 8GB RAM
+Card Slot: microSDXC
+Processor: Mediatek Helio G100 (6 nm)
+GPU: Mali-G57 MC2
+Type: 5000 mAh, non-removable
+Front Camera: 13 MP
+Front Flash Light: Dual-LED dual-tone flash
+Front Video Recording: 1080p@30fps
+Back Flash Light: Quad-LED flash
+Back Camera: 108 MP
+Back Video Recording: 1440p@30fps, 1080p@30fps
+Bluetooth: Yes
+3G: Yes
+4G/LTE: Yes
+5G: N/A
+Radio: N/A
+WiFi: Yes
+NFC: Yes (region dependent)

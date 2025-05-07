@@ -151,7 +151,7 @@ void Indexer::build_result_map()
 
         result_map.emplace(file_paths[idx], std::move(res));
     }
-    print_result_map();
+    // print_result_map();
 }
 
 void Indexer::print_result_map()

@@ -1,0 +1,37 @@
+<title_swe12>Samsung Galaxy A16 (6GB,128GB) Dual Sim With Official Warranty
+<link_swe123>https://telemart.pk/samsung-galaxy-a16-6gb128gb-dual-sim-with-official-warranty
+General Features
+Release Date	15 Aug 2024
+SIM Support	Dual Sim
+Phone Dimensions	164.4 x 77.9 x 7.9
+Phone Weight	200 g
+Operating System	Android 14 OS
+Display
+Screen Size	6.7 Inches
+Screen Resolution	1080 x 2340 pixels
+Screen Type	Super AMOLED
+Screen Protection	N/A
+Memory
+Internal Memory	128GB
+RAM	6GB/8GB
+Card Slot	Yes
+Performance
+Processor	Mediatek Helio G99 (6 nm)
+GPU	Mali-G57 MC2
+Battery
+Type	5000 mAh
+Camera
+Front Camera	13 MP
+Front Flash Light	No
+Front Video Recording	Yes
+Back Flash Light	Yes
+Back Camera	50 MP + 5 MP + 2 MP
+Back Video Recording	Yes
+Connectivity
+Bluetooth	Yes
+3G	Yes
+4G/LTE	Yes
+5G	N/A
+Radio	Yes
+WiFi	Yes
+NFC	Yes

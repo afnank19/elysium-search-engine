@@ -1,0 +1,37 @@
+<title_swe12>Samsung Galaxy S25 Ultra (12GB,512GB) With Official Warranty
+<link_swe123>https://telemart.pk/samsung-galaxy-s25-ultra-12gb512gb-with-official-warranty
+General Features
+Release Date	23 Jan 2025
+SIM Support	Dual Sim (SIM 1 + SIM 2 / SIM 1 + eSIM / Dual eSIM)
+Phone Dimensions	162.8 x 77.6 x 8.2 mm
+Phone Weight	218 g
+Operating System	Android 14
+Display
+Screen Size	6.9 Inches
+Screen Resolution	3120 x 1440 Pixels
+Screen Type	Dynamic AMOLED 2X, 120Hz Refresh Rate
+Screen Protection	N/A
+Memory
+Internal Memory	512 GB
+RAM	12 GB
+Card Slot	No
+Performance
+Processor	Qualcomm Snapdragon 8 Elite (3nm)
+GPU	Adreno 830
+Battery
+Type	5000 mah
+Camera
+Front Camera	12 MP
+Front Flash Light	Yes
+Front Video Recording	Yes
+Back Flash Light	Yes
+Back Camera	200.0 MP + 50.0 MP + 50.0 MP + 10.0 MP
+Back Video Recording	UHD 8K (7680 x 4320) @30fps , (Optical Zoom 3x and 5x, Optical quality Zoom 2x and 10x (Enabled by Adaptive Pixel sensor) , Digital Zoom up to 100x )
+Connectivity
+Bluetooth	Yes
+3G	Yes
+4G/LTE	Yes
+5G	Yes
+Radio	No
+WiFi	Yes
+NFC	Yes

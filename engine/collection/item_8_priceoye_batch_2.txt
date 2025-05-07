@@ -1,0 +1,30 @@
+<title_swe12>Tecno Spark Go 2023
+<link_swe123>https://priceoye.pk/mobiles/tecno/tecno-spark-go-2023
+Release Date: 19 Jan 2023
+SIM Support: Dual SIM (Nano-SIM, dual stand-by)
+Phone Dimensions: 163.9 x 75.5 x 8.9 mm
+Phone Weight: N/A
+Operating System: Android 12, HIOS 12
+Screen Size: 6.6 inches
+Screen Resolution: 720 x 1600 pixels
+Screen Type: IPS LCD
+Screen Protection: N/A
+Internal Memory: 64 GB
+RAM: 4 GB + (3 GB Extended RAM)
+Card Slot: microSDXC (dedicated slot)
+Processor: Mediatek MT6761 Helio A22
+GPU: PowerVR GE8320
+Type: Li-Po 5000 mAh, non-removable
+Front Camera: 5 MP
+Front Flash Light: No
+Front Video Recording: Yes
+Back Flash Light: Yes
+Back Camera: 13 MP
+Back Video Recording: 1080p@30fps
+Bluetooth: Yes
+3G: Yes
+4G/LTE: Yes
+5G: No
+Radio: N/A
+WiFi: Yes
+NFC: No

@@ -1,0 +1,30 @@
+<title_swe12>Tecno Spark Go 2024
+<link_swe123>https://priceoye.pk/mobiles/tecno/tecno-spark-go-2024
+Release Date: 21 Nov 2023
+SIM Support: Dual SIM
+Phone Dimensions: 163.69 x 75.6 x 8.75 mm
+Phone Weight: N/A
+Operating System: Android 13 (Go edition), HIOS 13
+Screen Size: 6.6 Inches
+Screen Resolution: 720 x 1612 Pixels
+Screen Type: HD+ Dynamic Dot - Notch
+Screen Protection: N/A
+Internal Memory: 64 GB
+RAM: 4 GB
+Card Slot: microSDXC
+Processor: Unisoc T606
+GPU: Mali-G57 MP1
+Type: 5000 mAh
+Front Camera: 8 MP
+Front Flash Light: Yes
+Front Video Recording: Yes
+Back Flash Light: Yes
+Back Camera: 13 MP + 0.08 MP
+Back Video Recording: 1080p@30fps
+Bluetooth: Yes
+3G: Yes
+4G/LTE: Yes
+5G: No
+Radio: FM radio
+WiFi: Yes
+NFC: No

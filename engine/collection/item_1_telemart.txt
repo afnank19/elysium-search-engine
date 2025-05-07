@@ -1,0 +1,37 @@
+<title_swe12>Samsung Galaxy A26 5G (8GB,256GB) Dual Sim with Official Warranty
+<link_swe123>https://telemart.pk/samsung-galaxy-a26-5g-8gb256gb-dual-sim-with-official-warranty
+General Features
+Release Date	11 Apr 2025
+SIM Support	Dual Sim
+Phone Dimensions	N/A
+Phone Weight	200g
+Operating System	Android 15
+Display
+Screen Size	6.7 inches
+Screen Resolution	1080 x 2340
+Screen Type	Super AMOLED
+Screen Protection	Corning Gorilla IP67
+Memory
+Internal Memory	256 GB
+RAM	8 GB
+Card Slot	Yes
+Performance
+Processor	Octa Core Processor
+GPU	N/A
+Battery
+Type	5000 mAh
+Camera
+Front Camera	13 MP
+Front Flash Light	No
+Front Video Recording	No
+Back Flash Light	Yes
+Back Camera	50.0 MP + 8.0 MP + 2.0 MP
+Back Video Recording	3840 x 2160
+Connectivity
+Bluetooth	Yes
+3G	Yes
+4G/LTE	Yes
+5G	Yes
+Radio	Yes
+WiFi	Yes
+NFC	No

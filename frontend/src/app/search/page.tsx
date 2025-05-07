@@ -38,9 +38,13 @@ const Search = async ({ searchParams }: SearchPageProps) => {
   const q = Array.isArray(rawQ) ? rawQ[0] : rawQ ?? "";
 
   const data = await getSearchResult(q);
-  let maxRelevanceScore = data[0].relevancy; // assumes the result returns the highest relevant item
-  if (maxRelevanceScore == 0) {
-    maxRelevanceScore = 1;
+
+  let maxRelevanceScore: any;
+  if (data !== null) {
+    maxRelevanceScore = data[0].relevancy; // assumes the result returns the highest relevant item
+    if (maxRelevanceScore == 0) {
+      maxRelevanceScore = 1;
+    }
   }
 
   return (
@@ -79,45 +83,47 @@ const Search = async ({ searchParams }: SearchPageProps) => {
       </div>
       <div className="flex lg:ml-16 pl-2 md:pl-8">
         <div className="flex flex-col gap-2 ">
-          {data.map((data: any, index: number) => {
-            return (
-              <div
-                key={index}
-                className="flex gap-2 items-center justify-between"
-              >
-                <div className="max-w-2xl truncate text-[#8ab4f8]">
-                  <a
-                    className=" text-lg w-fit hover:underline"
-                    href={data.link}
-                    target="_blank"
-                  >
-                    {data.title}
-                  </a>
-                  <p className="text-xs truncate text-neutral-200">
-                    {data.link}
-                  </p>
-                </div>
-                <div className="flex gap-2">
-                  <div
-                    className={`rounded-sm px-2 text-xs ${relevancyClassBuilder(
-                      data.relevancy,
-                      maxRelevanceScore
-                    )}`}
-                  >
-                    Relevant: {(data.relevancy / maxRelevanceScore).toFixed(2)}
+          {data != null &&
+            data.map((data: any, index: number) => {
+              return (
+                <div
+                  key={index}
+                  className="flex gap-2 items-center justify-between"
+                >
+                  <div className="max-w-2xl truncate text-[#8ab4f8]">
+                    <a
+                      className=" text-lg w-fit hover:underline"
+                      href={data.link}
+                      target="_blank"
+                    >
+                      {data.title}
+                    </a>
+                    <p className="text-xs truncate text-neutral-200">
+                      {data.link}
+                    </p>
                   </div>
-                  <div
-                    className={`rounded-sm px-2 text-xs ${relevancyClassBuilder(
-                      data.relevancy,
-                      maxRelevanceScore
-                    )}`}
-                  >
-                    Actual: {data.relevancy.toFixed(4)}
+                  <div className="flex gap-2">
+                    <div
+                      className={`rounded-sm px-2 text-xs ${relevancyClassBuilder(
+                        data.relevancy,
+                        maxRelevanceScore
+                      )}`}
+                    >
+                      Relevant:{" "}
+                      {(data.relevancy / maxRelevanceScore).toFixed(2)}
+                    </div>
+                    <div
+                      className={`rounded-sm px-2 text-xs ${relevancyClassBuilder(
+                        data.relevancy,
+                        maxRelevanceScore
+                      )}`}
+                    >
+                      Actual: {data.relevancy.toFixed(4)}
+                    </div>
                   </div>
                 </div>
-              </div>
-            );
-          })}
+              );
+            })}
         </div>
       </div>
     </>
