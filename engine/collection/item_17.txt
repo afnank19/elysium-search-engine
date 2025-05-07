@@ -1,0 +1,30 @@
+<title_swe12>Samsung Galaxy Z Fold 4
+<link_swe123>https://priceoye.pk/mobiles/samsung/samsung-galaxy-z-fold-4
+Release Date: 18 Oct 2022
+SIM Support: Two Nano Sim and one eSIM
+Phone Dimensions: Unfolded: 155.1 x 130.1 x 6.3 mm Folded: 155.1 x 67.1 x 15.8 mm-14.2mm
+Phone Weight: 263 g
+Operating System: Android 12L, One UI 4.1.1
+Screen Size: 7.6 inches
+Screen Resolution: 1812 x 2176 pixels
+Screen Type: Foldable Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (peak)
+Screen Protection: N/A
+Internal Memory: 512 GB
+RAM: 12 GB
+Card Slot: No
+Processor: Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)
+GPU: Adreno 730
+Type: Li-Po 4400 mAh, non-removable
+Front Camera: 4 MP + 10 MP
+Front Flash Light: No
+Front Video Recording: 4K@30fps, 1080p@30fps, gyro-EIS
+Back Flash Light: Yes
+Back Camera: 50 MP + 10 MP + 12 MP
+Back Video Recording: 4K@60fps, 1080p@60/240fps (gyro-EIS), 720p@960fps (gyro-EIS), HDR10+
+Bluetooth: Yes
+3G: Yes
+4G/LTE: Yes
+5G: Yes
+Radio: No
+WiFi: Yes
+NFC: Yes

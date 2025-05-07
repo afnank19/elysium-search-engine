@@ -1,0 +1,30 @@
+<title_swe12>Samsung Galaxy A25
+<link_swe123>https://priceoye.pk/mobiles/samsung/samsung-galaxy-a25
+Release Date: 11 Dec 2023
+SIM Support: Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)
+Phone Dimensions: 161 x 76.5 x 8.3 mm
+Phone Weight: 197 g
+Operating System: Android 14, One UI 6
+Screen Size: 6.5 Inches
+Screen Resolution: 1080 x 2340 Pixels
+Screen Type: Super AMOLED, 120Hz, 1000 nits (HBM)
+Screen Protection: N/A
+Internal Memory: 256 GB
+RAM: 8 GB
+Card Slot: microSDXC (uses shared SIM slot)
+Processor: Exynos 1280
+GPU: Mali-G68
+Type: 5000 mAh, non-removable
+Front Camera: 13 MP
+Front Flash Light: N/A
+Front Video Recording: 1080p@30fps
+Back Flash Light: Yes
+Back Camera: 50 MP + 8 MP + 2 MP
+Back Video Recording: 4K@30fps, 1080p@30fps, gyro-EIS
+Bluetooth: Yes
+3G: Yes
+4G/LTE: Yes
+5G: Yes
+Radio: Market/region dependent
+WiFi: Yes
+NFC: Yes (market/region dependent)

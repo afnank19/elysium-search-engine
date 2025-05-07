@@ -1,0 +1,30 @@
+<title_swe12>Samsung Galaxy A14
+<link_swe123>https://priceoye.pk/mobiles/samsung/samsung-galaxy-a14
+Release Date: 30 Jun 2023
+SIM Support: Dual Sim, Dual Standby (Nano-SIM)
+Phone Dimensions: 167.7 x 78 x 9.1 mm
+Phone Weight: 201 g
+Operating System: Android 13
+Screen Size: 6.6 inches
+Screen Resolution: 1080 x 2408 pixels
+Screen Type: FHD+ Infinity-V Immersive display
+Screen Protection: N/A
+Internal Memory: 64/128 GB
+RAM: 4/6 GB
+Card Slot: Micro SD up to 1TB
+Processor: Exynos 850 (8nm)
+GPU: Powerful Octa Core 2.0GHz LPDDR4
+Type: (Li-Po Non removable), 5000 mAh
+Front Camera: 13 MP
+Front Flash Light: No
+Front Video Recording: 1080p@30fps
+Back Flash Light: Yes
+Back Camera: 50 MP + 5 MP + 2 MP
+Back Video Recording: 1080p@30fps
+Bluetooth: Yes
+3G: Yes
+4G/LTE: Yes
+5G: No
+Radio: No
+WiFi: Yes
+NFC: No

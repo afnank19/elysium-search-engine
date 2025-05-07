@@ -1,0 +1,30 @@
+<title_swe12>Samsung Galaxy S25 Ultra (12GB-256GB)
+<link_swe123>https://priceoye.pk/mobiles/samsung/samsung-galaxy-s25-ultra-12gb-256gb
+Release Date: 21 Mar 2025
+SIM Support: Dual-SIM
+Phone Dimensions: 162.8 x 77.6 x 8.2
+Phone Weight: 218
+Operating System: Android
+Screen Size: 6.9 Inches
+Screen Resolution: 3120 x 1440
+Screen Type: Quad HD+ Dynamic AMOLED 2X
+Screen Protection: N/A
+Internal Memory: 256gb
+RAM: 12gb
+Card Slot: N/A
+Processor: Qualcomm Snapdragon 8 Elite (3nm)
+GPU: Adreno 830
+Type: 5000mAh
+Front Camera: 12 MP
+Front Flash Light: Yes
+Front Video Recording: Yes
+Back Flash Light: Yes
+Back Camera: 200 MP + 50 MP + 50 MP + 10 MP
+Back Video Recording: UHD 8K (7680 x 4320) @30fps , Optical Zoom 3x and 5x, Optical quality Zoom 2x and 10x (Enabled by Adaptive Pixel sensor) , Digital Zoom up to 100x
+Bluetooth: Yes
+3G: Yes
+4G/LTE: Yes
+5G: Yes
+Radio: No
+WiFi: Yes
+NFC: Yes

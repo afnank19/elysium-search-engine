@@ -1,0 +1,30 @@
+<title_swe12>Samsung Galaxy Z Flip 6
+<link_swe123>https://priceoye.pk/mobiles/samsung/z-flip-6
+Release Date: 25 Jul 2024
+SIM Support: Nano-Sim and E-Sim
+Phone Dimensions: Unfolded: 165.1 x 71.9 x 6.9 mm , Folded: 85.1 x 71.9 x 14.9 mm
+Phone Weight: 187 g
+Operating System: Android 14
+Screen Size: 6.7 inches
+Screen Resolution: 1080 x 2640 pixels
+Screen Type: Super Amoled
+Screen Protection: Gorilla Glass Victus 2
+Internal Memory: 256GB , 512GB
+RAM: 12GB
+Card Slot: No
+Processor: Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)
+GPU: Adreno 750
+Type: 4000 mAh
+Front Camera: 10 MP
+Front Flash Light: N/A
+Front Video Recording: 4K@30fps
+Back Flash Light: LED Flash
+Back Camera: 50 MP + 12 MP
+Back Video Recording: 4K@30/60fps, 1080p@60/120/240fps, 720p@960fps
+Bluetooth: Yes
+3G: Yes
+4G/LTE: Yes
+5G: Yes
+Radio: No
+WiFi: Yes
+NFC: Yes

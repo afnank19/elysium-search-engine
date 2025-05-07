@@ -99,8 +99,8 @@ std::vector<std::string> create_tokens(std::string str) {
     for (int i = 0; i < str.length(); ++i) {
         if (str[i] == ' ' || str[i] == '.' || str[i] == ',' || i+1 == str.length()) { // needs better tokenization
             std::string token(temp.begin(), temp.end());
-            Porter2Stemmer::trim(token);
-            Porter2Stemmer::stem(token);
+            // Porter2Stemmer::trim(token);
+            // Porter2Stemmer::stem(token);
             tokens.push_back(token);
             // std::cout << token << std::endl;
             temp.clear();    
@@ -122,8 +122,8 @@ std::vector<std::string> query_tokenizer(std::string str) {
     for (int i = 0; i <= str.length(); ++i) {
         if (str[i] == ' ' || i == str.length()) { // needs better tokenization
             std::string token(temp.begin(), temp.end());
-            Porter2Stemmer::trim(token);
-            Porter2Stemmer::stem(token);
+            // Porter2Stemmer::trim(token);
+            // Porter2Stemmer::stem(token);
             tokens.push_back(token);
             temp.clear();    
         } else {

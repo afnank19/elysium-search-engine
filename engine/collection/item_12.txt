@@ -1,0 +1,30 @@
+<title_swe12>Samsung Galaxy A05
+<link_swe123>https://priceoye.pk/mobiles/samsung/samsung-galaxy-a05
+Release Date: 09 Feb 2024
+SIM Support: Dual-SIM (Nano-SIM)
+Phone Dimensions: 168.8 x 78.2 x 8.8 mm
+Phone Weight: 195
+Operating System: Android
+Screen Size: 6.7 Inches
+Screen Resolution: 720 x 1600
+Screen Type: PLS LCD
+Screen Protection: N/A
+Internal Memory: 128 GB
+RAM: 4 GB
+Card Slot: MicroSD (Up to 1TB)
+Processor: Mediatek MT6769V/CZ Helio G85 (12nm)
+GPU: Mali-G52 MC2
+Type: 5000 mAh
+Front Camera: 8 MP
+Front Flash Light: No
+Front Video Recording: Yes
+Back Flash Light: Yes
+Back Camera: 50.0 MP + 2.0 MP
+Back Video Recording: FHD (1920 x 1080) @60fps
+Bluetooth: Yes
+3G: Yes
+4G/LTE: Yes
+5G: No
+Radio: N/A
+WiFi: Yes
+NFC: N/A
