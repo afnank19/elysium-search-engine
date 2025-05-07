@@ -81,7 +81,10 @@ const Search = async ({ searchParams }: SearchPageProps) => {
         <div className="flex flex-col gap-2 ">
           {data.map((data: any, index: number) => {
             return (
-              <div key={index} className="flex gap-2 items-center">
+              <div
+                key={index}
+                className="flex gap-2 items-center justify-between"
+              >
                 <div className="max-w-2xl truncate text-[#8ab4f8]">
                   <a
                     className=" text-lg w-fit hover:underline"
@@ -94,21 +97,23 @@ const Search = async ({ searchParams }: SearchPageProps) => {
                     {data.link}
                   </p>
                 </div>
-                <div
-                  className={`rounded-sm px-2 text-xs ${relevancyClassBuilder(
-                    data.relevancy,
-                    maxRelevanceScore
-                  )}`}
-                >
-                  Relevant: {(data.relevancy / maxRelevanceScore).toFixed(2)}
-                </div>
-                <div
-                  className={`rounded-sm px-2 text-xs ${relevancyClassBuilder(
-                    data.relevancy,
-                    maxRelevanceScore
-                  )}`}
-                >
-                  Actual: {data.relevancy.toFixed(4)}
+                <div className="flex gap-2">
+                  <div
+                    className={`rounded-sm px-2 text-xs ${relevancyClassBuilder(
+                      data.relevancy,
+                      maxRelevanceScore
+                    )}`}
+                  >
+                    Relevant: {(data.relevancy / maxRelevanceScore).toFixed(2)}
+                  </div>
+                  <div
+                    className={`rounded-sm px-2 text-xs ${relevancyClassBuilder(
+                      data.relevancy,
+                      maxRelevanceScore
+                    )}`}
+                  >
+                    Actual: {data.relevancy.toFixed(4)}
+                  </div>
                 </div>
               </div>
             );
