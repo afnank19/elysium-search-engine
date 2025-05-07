@@ -8,3 +8,5 @@ main
 /scripts/node_modules
 
 html_files.txt
+
+*:Zone.Identifier
